@@ -1,6 +1,6 @@
-package com.github.monsterhxw.heapsort;
+package main.java.com.github.monsterhxw.heapsort;
 
-import com.github.monsterhxw.heap.MaxHeap;
+import main.java.com.github.monsterhxw.heap.MaxHeap;
 
 /**
  * @author XueweiHuang

@@ -1,4 +1,4 @@
-package com.github.monsterhxw.heap;
+package main.java.com.github.monsterhxw.heap;
 
 /**
  * @author XueweiHuang

@@ -1,7 +1,7 @@
 package com.github.monsterhxw;
 
-import com.github.monsterhxw.heap.MaxHeap;
-import com.github.monsterhxw.heapsort.HeapSort;
+import main.java.com.github.monsterhxw.heap.MaxHeap;
+import main.java.com.github.monsterhxw.heapsort.HeapSort;
 
 import java.util.Arrays;
 import java.util.Random;
