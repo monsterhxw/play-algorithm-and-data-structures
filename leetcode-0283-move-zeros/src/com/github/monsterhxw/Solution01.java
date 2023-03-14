@@ -19,7 +19,9 @@ public class Solution01 {
 
         while (currPos < nums.length) {
             if (nums[currPos] != 0) {
-                swap(nums, firstZeroPos, currPos);
+                if (firstZeroPos != currPos) {
+                    swap(nums, firstZeroPos, currPos);
+                }
                 firstZeroPos++;
             }
             currPos++;
