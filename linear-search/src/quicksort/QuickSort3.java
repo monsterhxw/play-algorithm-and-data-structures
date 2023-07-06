@@ -35,7 +35,7 @@ public class QuickSort3 {
         // 双路快速排序
 
         // arr[l+1,i-1] <= v;
-        // arr[j+1,r] > v;
+        // arr[j+1,r] >= v;
         int i = l + 1;
         int j = r;
         while (true) {
